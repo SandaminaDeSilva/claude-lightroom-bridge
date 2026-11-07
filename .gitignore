@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.claude-lightroom-bridge/
+claude_desktop_config*.json
+*.jpg
+*.jpeg
+*.CR3
+*.cr3
+*.lrcat
+.DS_Store
+Thumbs.db
